@@ -11,6 +11,7 @@ This repository contains the training codes:
 - `large_model_xyzbond.py` is the training code for the large model.
 
 Our model architecture loos like this:
+
 ![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png))
 
 ### KnotFormer
