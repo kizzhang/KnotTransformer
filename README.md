@@ -11,7 +11,7 @@ This repository contains the training codes:
 - `large_model_xyzbond.py` is the training code for the large model.
 
 Our model architecture loos like this:
-![TransKnot model architecture](assets\imgs\TransKnot.png)
+![TransKnot model architecture]([assets\imgs\TransKnot.png](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png))
 
 ### KnotFormer
 KnotFormer is a Transfomer-based classifier-free diffusion model that generates accurate knots of different types
@@ -23,4 +23,4 @@ This repository contains the both the code for training and generating:
 - `Bond_dffusion_generate.py` is the code for generation of polymer knots.
 
 Our model architecture loos like this:
-![TransKnot model architecture](assets\imgs\KnotFormer.png)
+![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/KnotFormer.png)
