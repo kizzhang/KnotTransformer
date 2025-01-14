@@ -2,7 +2,7 @@
 ## A repository for our classification and generation models
 
 ### Classification
-TransKnot is a Transformer-based model that classifies knots of different types. 
+**TransKnot** is a Transformer-based model that classifies knots of different types. 
 
 This repository contains the training codes: 
 
@@ -14,8 +14,8 @@ Our model architecture schematics:
 
 ![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png))
 
-### KnotFormer
-KnotFormer is a Transformer-based diffusion model that generates accurate knots of different types
+### Generation
+**KnotFormer** is a Transformer-based diffusion model that generates accurate knots of different types
 
 - To train the diffusion model: `python diffusion_train.py`
 
