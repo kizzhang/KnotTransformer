@@ -1,8 +1,8 @@
 # KnotTransformer
-## A repository for the TransKnot and KnotFormer models
+## A repository for our classification and generation models
 
-### TransKnot
-TransKnot is a Transformer-based model that classify knots of different types. 
+### Classification
+TransKnot is a Transformer-based model that classifies knots of different types. 
 
 This repository contains the training codes: 
 
@@ -10,18 +10,18 @@ This repository contains the training codes:
 
 - `large_model_xyzbond.py` is the training code for the large model.
 
-Our model architecture loos like this:
+Our model architecture schematics:
 
 ![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png))
 
 ### KnotFormer
-KnotFormer is a Transfomer-based classifier-free diffusion model that generates accurate knots of different types
+KnotFormer is a Transformer-based diffusion model that generates accurate knots of different types
 
-This repository contains the both the code for training and generating: 
+- To train the diffusion model: `python diffusion_train.py`
 
-- `Bond_dffusion.py` is the training code for $N=300$ semi-flexible polymer knots;
+- To train the classifier: `python classifier_train.py`
 
-- `Bond_dffusion_generate.py` is the code for generation of polymer knots.
+- To generate: `python generate.py`
 
-Our model architecture loos like this:
+Our model architecture schematics:
 ![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/KnotFormer.png)
