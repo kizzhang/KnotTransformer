@@ -1,5 +1,5 @@
-# KnotTransformer
-## A repository for our classification and generation models
+# Recognizing and generating knotted molecular structures by machine learning
+## The repository for our classification and generation models
 
 ### Classification
 **TransKnot** is a Transformer-based model that classifies knots of different types. 
