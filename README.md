@@ -11,7 +11,7 @@ This repository contains the training codes:
 
 Our model architecture schematics:
 
-![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png))
+![TransKnot model architecture](https://github.com/kizzhang/KnotTransformer/blob/main/assets/imgs/TransKnot.png)
 
 ## Generation
 **KnotFormer** is a Transformer-based diffusion model that generates accurate knots of different types
