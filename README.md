@@ -3,11 +3,9 @@
 ## Classification
 **TransKnot** is a Transformer-based model that classifies knots of different types. 
 
-This repository contains the training codes: 
+This repository contains the training code in Jupyter Notebook to play with: 
 
-- `TransKnot_xyzbond.py` is the training code for $N=300$ flexible polymer knots;
-
-- `large_model_xyzbond.py` is the training code for the large model.
+`train.ipynb`
 
 Our model architecture schematics:
 
