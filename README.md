@@ -1,5 +1,9 @@
 # Recognizing and generating knotted molecular structures by machine learning
 
+## Dataset
+
+Download our dataset from [here](https://yjzhu-my.sharepoint.com/:f:/g/personal/yjianzhu_yjzhu_onmicrosoft_com/EiFp9zC0YV9Ouvnqocdq8CIBzWsTCgFtTEcigq8Lrp_5eg?e=LwdQW3)
+
 ## Classification
 **TransKnot** is a Transformer-based model that classifies knots of different types. 
 
